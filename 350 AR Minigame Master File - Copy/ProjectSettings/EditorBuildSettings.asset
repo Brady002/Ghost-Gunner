@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MasterFileAssets/Scenes/StartScreen.unity
+    guid: 931be1f138561124cabbd3e133219db7
+  - enabled: 1
+    path: Assets/MasterFileAssets/Scenes/Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/MasterFileAssets/Scenes/DeathScreen.unity
+    guid: c3819d118a7947541b169dafd69c3817
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 525165eb6a129f94e87b45f47eb502c5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 031b952ab0b2b274088444f14298c7dd, type: 2}
